@@ -1,0 +1,3 @@
+200 Hz a 38 db
+1300 Hz a 34 db
+500 Hz a 40 db
